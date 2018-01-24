@@ -1,5 +1,7 @@
 # Markdown Image Helper
 
+**Warning: I choose Emacs to write markdown , so this plugin is not maintain anymore**
+
 An Atom plugin for Markdown grammar. Create image file relative to the markdown file and insert a relative url to that file.
 
 Inspired by [markdown-assistant](https://github.com/knightli/markdown-assistant)，instead upload the image, i think just copy to the relative path is better.
