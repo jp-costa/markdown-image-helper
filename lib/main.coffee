@@ -21,7 +21,7 @@ module.exports = MarkdownImgHelper =
 
 				e.stopImmediatePropagation()
 
-				imgbuffer = img.toPng()
+				imgbuffer = img.toPNG()
 
 				thefile = new File(editor.getPath())
 				assetsDirPath = thefile.getParent().getPath()+"/assets"
